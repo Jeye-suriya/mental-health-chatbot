@@ -25,5 +25,4 @@ This is an AI-powered mental health chatbot that provides empathetic, context-aw
 
 ---
 
-## 📁 Folder Structure
 
